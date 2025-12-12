@@ -1,0 +1,7 @@
+{
+  "name": "MyInsurancePhoto.com",
+  "description": "The ultimate underwriting and photo collection tool for Bill Layne Insurance. Features AI-powered photo verification.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
